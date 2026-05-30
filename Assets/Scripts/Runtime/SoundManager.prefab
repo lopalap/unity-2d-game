@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9065477385744388908
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 517340192763993938}
+  - component: {fileID: 1489975661712485810}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &517340192763993938
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9065477385744388908}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1489975661712485810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9065477385744388908}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d0d594794d06fc49ac3656a89d49de1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SoundManager
+  swordAttack: {fileID: 8300000, guid: 5f33a96c64a7e81438b1f25e81d33ec0, type: 3}
+  attackHit: {fileID: 8300000, guid: 291d4172d9f0ce24882f5930f95e3aaa, type: 3}
+  playerHit: {fileID: 8300000, guid: 291d4172d9f0ce24882f5930f95e3aaa, type: 3}
+  playerDeath: {fileID: 8300000, guid: 6837d6602ff8d9847817abc9177addb1, type: 3}
+  footsteps:
+  - {fileID: 8300000, guid: 1980a47facb1ce044bd52265bf46f2fd, type: 3}
+  - {fileID: 8300000, guid: c9a1631a93ec29943b19e084b7b1a61b, type: 3}
+  - {fileID: 8300000, guid: bc135307c96249b45908ec75a61758c5, type: 3}
+  chestOpen: {fileID: 8300000, guid: c58d26b9cadc81e4783f60dccb4d752b, type: 3}
+  keyCollect: {fileID: 8300000, guid: b63c694f280985f4d8058ecb5bc4f069, type: 3}
+  glassBreaking: {fileID: 8300000, guid: 8763f59e48d0ffb4e9c6e27e8728d458, type: 3}
+  itemPickup: {fileID: 8300000, guid: 965a4c74b4df4754d86efbca5c27bdc4, type: 3}
+  potionDrink: {fileID: 8300000, guid: 65d1cdd5a9b32be4980f6fd8b02228f8, type: 3}
+  dungeonBGM: {fileID: 8300000, guid: 7a1f4728c3c21374abe033eda931d9a1, type: 3}
+  portalJump: {fileID: 8300000, guid: 7612e48d932bda9499d09b5bda1e0163, type: 3}
+  goblinAttack: {fileID: 8300000, guid: c8d48a5ddb846674bb95dd3cc4714f91, type: 3}
+  goblinDeath: {fileID: 8300000, guid: 4e0291bded2c62b49804adce3544f432, type: 3}
+  skeletonAttack: {fileID: 8300000, guid: 9a240afe4957847438e164aed1fd8f12, type: 3}
+  skeletonDeath: {fileID: 8300000, guid: 3e2e6d3b3a0c4a148adb5c3973c40ea7, type: 3}
+  slimeAttack: {fileID: 8300000, guid: 24d1573261501894a9b4c7a9031114b5, type: 3}
+  slimeDeath: {fileID: 8300000, guid: 6de3a67733d35214b86f90834cfc6376, type: 3}
+  smallMonsterAttack: {fileID: 8300000, guid: 81ad3256e2c9b3d48bd96b1bf61d1b2d, type: 3}
+  smallMonsterDeath: {fileID: 8300000, guid: d35b68aea0e60f04ca4073a71a1f85d2, type: 3}
+  bossBGM: {fileID: 8300000, guid: 9f592c50f004b534b955128b9a2d0e8b, type: 3}
+  bossMagic: {fileID: 8300000, guid: 36506c5b4c0c2b24eba2cc01ad34b393, type: 3}
+  bossDeath: {fileID: 8300000, guid: 88784ba28363a9b42ae366fd30aad56b, type: 3}
+  necroAttack2: {fileID: 8300000, guid: 318f1c88f2868ff4db5642e4ea18a08f, type: 3}
+  skeletonSummon: {fileID: 8300000, guid: a53c3d983cb39804eb0fcf3fffd5cadd, type: 3}

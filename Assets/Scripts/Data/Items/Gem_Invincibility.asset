@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56e279acf314e8f4c89c0e83daf9a149, type: 3}
+  m_Name: Gem_Invincibility
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: "\uC7BC (\uBB34\uC801\uC2DC\uAC04)"
+  description: 
+  icon: {fileID: 8647714597544884390, guid: 9e4c5b7ee20388a479670d349a2ff125, type: 3}
+  maxHpBonus: 0
+  damageBonus: 0
+  speedBonus: 0
+  attackSpeedMult: 1
+  defenseBonus: 0
+  lifestealPercent: 0
+  critChance: 0
+  rollCooldownReduction: 0
+  invincibilityBonus: 0.5
+  rangedUnlock: 0
+  rangedRange: 0
+  hpUnlock: 0
+  dmgUnlock: 0
+  spdUnlock: 0
+  atkSpdUnlock: 0
+  defUnlock: 0
+  lifestealUnlock: 0
+  critUnlock: 0
+  rollPassUnlock: 0
+  counterUnlock: 0

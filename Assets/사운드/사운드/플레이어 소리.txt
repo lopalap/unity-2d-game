@@ -1,0 +1,33 @@
+플레이어 
+Sword Attack 1.wav - 검 휘두르는 소리 
+hit.wav - 피격음 
+death-man voice.wav - 사망음 
+Stone Chain Run 1~3.wav  - 발걸음 
+
+
+상자 
+Chest Open 1.wav- 상자 부서진 소리 
+key-collect - 열쇠 먹은 소리 
+glass-breaking - 물병 깨지는 소리 
+Item-pick-up - 아이템 먹는 소리 
+potion-drink - 포션 먹는소리
+
+던전 
+Dungen Sound.wav - 던전 메인 사운드 
+portal-phase-jump - 포탈 소리 
+
+몬스터 
+고빌린 Attack1.wav - 고블린 공격 소리 
+goblin-death. -  고블린 죽는 소리 
+skeleton-dead - 해골 죽는소리 
+skeleton- attack - 해골 공격 소리 
+slime-attack - 슬라임 공격소리 
+slime -dead - 슬라임 죽는소리 
+small-monster-attack - 작은 몬스터 공격 소리 
+little-creature-hurt-sound - 작은 몬스터 죽는 소리 
+
+
+보스 
+boss-intro.wav - 보스 배경음
+Fireball 1.wav - 마법 소리 
+boss dead - 보스 죽는소리 

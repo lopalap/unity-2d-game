@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56e279acf314e8f4c89c0e83daf9a149, type: 3}
+  m_Name: Crystal_HP
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: "\uD06C\uB9AC\uC2A4\uD0C8 (\uCCB4\uB825)"
+  description: 
+  icon: {fileID: 2598712437544095517, guid: 211d64a53bc4f1748ad15d80a3d5a51f, type: 3}
+  maxHpBonus: 0
+  damageBonus: 0
+  speedBonus: 0
+  attackSpeedMult: 1
+  defenseBonus: 0
+  lifestealPercent: 0
+  critChance: 0
+  rollCooldownReduction: 0
+  invincibilityBonus: 0
+  rangedUnlock: 0
+  rangedRange: 0
+  hpUnlock: 1
+  dmgUnlock: 0
+  spdUnlock: 0
+  atkSpdUnlock: 0
+  defUnlock: 0
+  lifestealUnlock: 0
+  critUnlock: 0
+  rollPassUnlock: 0
+  counterUnlock: 0
